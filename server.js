@@ -1,11 +1,7 @@
 const express = require('express');
 const path = require('path');
 
-const PORT = 3001;
-
-console.log(PORT)
-console.log(process.env.port)
-console.log(process.env.PORT)
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 
