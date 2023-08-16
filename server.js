@@ -3,6 +3,10 @@ const path = require('path');
 
 const PORT = 3001;
 
+console.log(PORT)
+console.log(process.env.port)
+console.log(process.env.PORT)
+
 const app = express();
 
 app.use(express.static('public'));
