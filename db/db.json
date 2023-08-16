@@ -1,12 +1,1 @@
-[
-    {
-        "id": 1,
-        "title":"Test Note 1",
-        "text":"Hello"
-    },
-    {
-        "id": 2,
-        "title":"Test Note 2",
-        "text":"World!"
-    }
-]
+[{"id":"53ee04d4-ca2e-4d4a-8ec3-47ff5e3efbbb","title":"Test Note 1","text":"Hello"},{"id":"53ee04d4-ca2e-4d4a-8ec3-47ff5e3efbad","title":"Test Note 2","text":"World!"},{"id":"53ee04d4-ca2e-4d4a-8ec3-47ff5e3efbac","title":"My Title","text":"My Note"},{"id":"72ca5f7b-5a94-47ca-9902-0755a7b2a617","title":"My Title","text":"My Note"},{"id":"de7e37ac-1834-4be2-ad07-e9eaa2e788ee","title":"hello","text":"good day"}]
